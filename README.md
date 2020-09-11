@@ -19,6 +19,9 @@ Camera and internet permission is required to use application.
 ## Test Cases
 Total 7 instrumented unit test cases are written for application, that tests the functionality, and edge cases of the application. To write test case espresso testing on android developer[3] website was referred.
 
+## Screenshot
+![Alt text](/object.png)
+
 ## References
 * [1]Android Studio. 2020.
 * [2]"Logo Maker - Create Your Own Logo, It’s Free! - FreeLogoDesign", FreeLogoDesign, 2020. [Online]. Available: https://www.freelogodesign.org/. [Accessed: 20- Mar- 2020].
